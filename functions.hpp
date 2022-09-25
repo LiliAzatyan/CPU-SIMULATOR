@@ -1,0 +1,14 @@
+void mov(std::string);
+void add(std::string);
+void sub(std::string);
+void divi(std::string);
+void mul(std::string);     
+void inc(int); 
+void dec(int); 
+void cmp(int);
+void jmp(int);  
+void jl(int); 
+void jg(int); 
+void jle(int); 
+void jge(int); 
+void je(int); 
